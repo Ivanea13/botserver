@@ -1,0 +1,20 @@
+{
+	"utilities": {
+		"errorEmbed": "Error",
+		"noInvitePerms": "Necesito el permiso de `crear invitaciones` para ejecutar este comando.",
+		"unexpectedError": "Ha ocurrido un error inesperado."
+	},
+	"avatar": {
+		"objetive": "El avatar de {username} es:",
+		"self": "Tu avatar es:"
+	},
+	"lang": {
+		"newLanguage": "Has seleccionado un nuevo lenguaje.",
+		"noAdministrator": "No tienes suficientes permisos para ejecutar este comando."
+	},
+	"youtube": {
+		"noChannel": "Necesitas estar en un canal de voz para ejecutar este comando",
+		"loanding": "Iniciando sesion de Youtube Together...",
+		"loading": "youtube.loading"
+	}
+}

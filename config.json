@@ -1,0 +1,9 @@
+{
+    "token": "OTc4MzMwMTEwNzkwODYwODEw.GSsVKw.49WcsP9Q3_a3x-u5ALq7z3Fm9WuyubF7dVqhG0",
+    "clientId": "978330110790860810",
+    "guildId": "974948976530980874",
+    "defaultSuccessColor": "PURPLE",
+    "defaultErrorColor": "RED",
+    "mongoURL": "mongodb+srv://botdeserver:pepeelcaja@cluster0.uccip.mongodb.net/IvaneasBot"
+
+}
